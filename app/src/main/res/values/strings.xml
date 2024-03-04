@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="jane_string">Jane</string>
+	<string name="san_francisco__ca_string">San francisco, ca</string>
+	<string name="see_more_string">see more</string>
+	<string name="follow_jane_string">follow jane</string>
+	<string name="message_string">message</string>
+</resources>
